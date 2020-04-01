@@ -1,3 +1,4 @@
+
 # Partie 2 - Fonctions SQL
 
 Avant de réaliser cette partie, il convient d'avoir lu de manière active le support de cours sur les fonctions SQL (activité Moodle).  
